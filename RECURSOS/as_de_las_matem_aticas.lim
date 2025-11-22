@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>000000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Operemos juntos con números enteros</titulo>
+        <subtitulo>Vuélvete un AS de las matemáticas</subtitulo>
+        <autor>Alcira Estrada y Sergio Rojano</autor>
+        <logo>LOGO-Pagina_web.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="100">inspiring-logo-ident-opener-8-sec-271917.mp3</sonido>
+        <correcto son="correct-293359.mp3" modo="1" >¡Lo hiciste excelente!</correcto>
+        <incorrecto son="incorrect-293358.mp3" modo="1" >Sigue intentando... ¡Vas bien!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-24">Presentaci_on_Diapositivas_Asignatura_Matem_aticas_Ilustrado_Verde_y_Blanco.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="265" posy="303">CARRERA.jpg</imaxe>
+              <texto posx="129" posy="10" ancho="386" largo="318"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="20">¡Bienvenido a operemos juntos!<br>
+<br>
+El día de hoy vamos a trabajar con actividades mágicas, te ensañeremos a usar la base de las matemáticas... ¡Los números!<br>
+<br>
+¿Te sientes listo para trabajar al respecto?<br>
+<br>
+Bueno... No importa si no, aquí, te convertiremos en el AS de las matemáticas, así que, está atento, lee con atención, mira los vídeos, y empieza a resolver los juegos que hemos diseñado para que aprendas.<br>
+<br>
+¡Buena suerte!<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="183" posy="-33">¿Qu_e_son_los_n_umeros_enteros.png</imaxe>
+              <texto posx="50" posy="188" ancho="463" largo="590"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="24">Los números enteros son todos aquellos números que no tienen decimales ni fracciones. Incluyen a los números positivos, que usamos para contar cosas como 1,2,3...; al cero (0), que significa “nada”; y a los números negativos, que se usan para representar cosas por debajo de cero, como cuando hace frío bajo cero o cuando alguien tiene una deuda. <br>
+<br>
+En una recta numérica, los enteros se colocan uno al lado del otro: los positivos a la derecha del cero y los negativos a la izquierda.<br>
+<br>
+Algunos ejemplos de los números enteros pueden ser:<br>
+ <br>
+1. Un juego de deudas y ganancias: si tienes 5 canicas más que tu amigo, eso es positivo; si no tienes ninguna, es 0; y si le debes 3 canicas, eso es un número negativo, porque te faltan.<br>
+<br>
+2. Los pisos de un edificio: imagina un ascensor en un edificio. Los pisos hacia arriba del nivel de la calle son positivos, como el piso 1, 2 o 10. El nivel de la calle es el 0. Y los pisos del sótano son negativos, como –1 o –2.<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>13</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <unir texto="-4">Número entero negativo</unir>
+              <unir texto="6,23">No entero positivo</unir>
+              <unir texto="128">Número entero positivo</unir>
+              <unir texto="-4/25">No entero negativo</unir>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">La_recta_n_umerica.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>35</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>ORGANIZA LOS SIGUIENTES NÚMEROS DE ACUERDO A LA POSICIÓN EN LA CUAL ESTARÍAN EN LA RECTA NÚMERICA</cabeceira>
+              <forma>0</forma>
+              <completa>-11.png</completa>
+              <completa>-8.png</completa>
+              <completa>-2.png</completa>
+              <completa>0.png</completa>
+              <completa>23.png</completa>
+        </paxina>
+    </libro>
+</lim>
